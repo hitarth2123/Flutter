@@ -6,7 +6,7 @@ A Flutter project that displays a modern personal identity card with a profile i
 
 This project showcases the UI matching the attached output:
 
-![Identity Card Output](https://raw.githubusercontent.com/user-attachments/assets/1e9efe69-6d06-4243-a996-9bba1ec34ef5)
+![Identity Card Output](https://github.com/hitarth2123/Flutter/blob/main/Assignments/OutputOfAssignment3.png?raw=true)
 
 ## Features
 
